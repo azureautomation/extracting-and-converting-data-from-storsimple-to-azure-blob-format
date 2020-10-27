@@ -1,0 +1,20 @@
+{
+    "Author": "Vivek N D",
+    "ContentSize": 55151,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/extracting-and-converting-data-from-storsimple-to-azure-blob-format/master/Trigger-MediaFiles-Copy.ps1",
+    "DownloadCount": 704,
+    "Id": "Converting-data-from-77ac7995",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 510,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-3-15T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This script converts data from StorSimple to Azure blob format. You can specify which volume containers contain the data of interest, which file extension types you want to convert, and what your destination storage account is. After conversion, you can use the blob data with A",
+    "Title": "Extracting and converting data from StorSimple to Azure blob format",
+    "UpdatedDate": "2016-4-4T00:00:00",
+    "Url": "https://github.com/azureautomation/extracting-and-converting-data-from-storsimple-to-azure-blob-format",
+    "UserTags": "Microsoft Azure, Azure Automation, StorSimple"
+}
